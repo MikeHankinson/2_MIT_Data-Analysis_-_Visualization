@@ -1,7 +1,7 @@
 # 2_MIT_Data Analysis_&_Visualization
 ## Project: Marketing Campaign Analysis
-. Part 1: Explore the Auto-mpg dataset, apply dimensionality reduction techniques and visualize the data in lower dimensions to extract insights. 
-. Part 2: Segment a bank's customers to help the bank upgrade the service delivery model and ensure that customers' queries are resolved faster.
+- Project 1: Explore the Auto-mpg dataset, apply dimensionality reduction techniques and visualize the data in lower dimensions to extract insights. 
+- Project  2: Segment a bank's customers to help the bank upgrade the service delivery model and ensure that customers' queries are resolved faster.
 
 ### Skills and Tools
 PCA, t-sne, Clustering
@@ -14,5 +14,7 @@ Identify different segments in the existing customer based on their spending pat
 
 ### Results
 All exploratory and inferential statistical analysis, visualization and clustering results are included in the project notebooks 
-[Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  
+- Project 1: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  - Project 1: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  
+- Project 2: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  
+
 
