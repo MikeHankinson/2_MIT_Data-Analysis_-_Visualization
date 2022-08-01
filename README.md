@@ -14,7 +14,8 @@ Identify different segments in the existing customer based on their spending pat
 
 ### Results
 All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
-- Project 1: [Jupyter Notebook](Learner_Notebook_Unsupervised_Learning_Project.ipynb) 
-- Project 2: [Jupyter Notebook](Learner_Notebook_PCA_and_tSNE_Project.ipynb)  
+- Project 1: [Jupyter Notebook](Learner_Notebook_PCA_and_tSNE_Project.ipynb)  
+- Project 2: [Jupyter Notebook](Learner_Notebook_Unsupervised_Learning_Project.ipynb) 
+
 
 
