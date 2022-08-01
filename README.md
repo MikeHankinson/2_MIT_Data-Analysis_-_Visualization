@@ -13,8 +13,8 @@ Part 2: AllLife Bank wants to focus on its credit card customer base in the next
 Identify different segments in the existing customer based on their spending patterns as well as past interaction with the bank.
 
 ### Results
-All exploratory and inferential statistical analysis, visualization and clustering results are included in the project notebooks 
-- Project 1: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  - Project 1: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  
-- Project 2: [Jupyter Notebook](Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb).  
+All exploratory and inferential statistical analysis, visualization and clustering results are included in the following project notebooks:
+- Project 1: [Jupyter Notebook](Learner_Notebook_Unsupervised_Learning_Project.ipynb) 
+- Project 2: [Jupyter Notebook](Learner_Notebook_PCA_and_tSNE_Project.ipynb)  
 
 
