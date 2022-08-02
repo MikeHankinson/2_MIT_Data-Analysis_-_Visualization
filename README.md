@@ -1,5 +1,5 @@
 # 2_MIT_Data Analysis_&_Visualization
-## Project: 
+## Projects
 - Project 1: Explore the Auto-mpg dataset, apply dimensionality reduction techniques and visualize the data in lower dimensions to extract insights. 
 - Project  2: Segment a bank's customers to help the bank upgrade the service delivery model and ensure that customers' queries are resolved faster.
 
